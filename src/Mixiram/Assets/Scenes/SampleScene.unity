@@ -408,50 +408,6 @@ PrefabInstance:
       propertyPath: m_controller
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchProLeftController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: a0e30f5cf7b570640b5475126d14c189,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchPlusLeftController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 05d9548a63c5e294d9a0bce4c566e4b4,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchProRightController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 968ade7941b48a8449a2f0593addd75c,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchPlusRightController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 5ae3df0737a941c478613e92c5e0490f,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchRiftLeftController
-      value: 
-      objectReference: {fileID: 100014, guid: 7de0da937a9cb834592db001bc622fa4, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchRiftRightController
-      value: 
-      objectReference: {fileID: 100014, guid: 8733c1b38f828024f816e4a6d5cb0e09, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuest2LeftController
-      value: 
-      objectReference: {fileID: 100016, guid: ea5b2508c8dd76a429118a52f9afbb3b, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuest2RightController
-      value: 
-      objectReference: {fileID: 100018, guid: aba14af524c3b1d418c8f2cfbd41b938, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuestAndRiftSLeftController
-      value: 
-      objectReference: {fileID: 100000, guid: 1d3acd9cf5744b746b4eff948f76f3b9, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuestAndRiftSRightController
-      value: 
-      objectReference: {fileID: 100000, guid: 99f5a9df8522d5a4aba95756f05ad65c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -515,11 +471,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 137619227449585070, guid: 835e735ca71bf78459fb2cababd74112,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: a2f37a792ca8f36429ebe86638497dcd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -909,50 +860,6 @@ PrefabInstance:
       propertyPath: m_controller
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchProLeftController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: a0e30f5cf7b570640b5475126d14c189,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchPlusLeftController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 05d9548a63c5e294d9a0bce4c566e4b4,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchProRightController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 968ade7941b48a8449a2f0593addd75c,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelMetaTouchPlusRightController
-      value: 
-      objectReference: {fileID: 919132149155446097, guid: 5ae3df0737a941c478613e92c5e0490f,
-        type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchRiftLeftController
-      value: 
-      objectReference: {fileID: 100014, guid: 7de0da937a9cb834592db001bc622fa4, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchRiftRightController
-      value: 
-      objectReference: {fileID: 100014, guid: 8733c1b38f828024f816e4a6d5cb0e09, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuest2LeftController
-      value: 
-      objectReference: {fileID: 100016, guid: ea5b2508c8dd76a429118a52f9afbb3b, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuest2RightController
-      value: 
-      objectReference: {fileID: 100018, guid: aba14af524c3b1d418c8f2cfbd41b938, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuestAndRiftSLeftController
-      value: 
-      objectReference: {fileID: 100000, guid: 1d3acd9cf5744b746b4eff948f76f3b9, type: 3}
-    - target: {fileID: 11479374, guid: d9809c5e8418bb047bf2c8ba1d1a2cec, type: 3}
-      propertyPath: m_modelOculusTouchQuestAndRiftSRightController
-      value: 
-      objectReference: {fileID: 100000, guid: 99f5a9df8522d5a4aba95756f05ad65c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
